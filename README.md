@@ -10,11 +10,11 @@ You **do not** need to install JRE or JDK to run this program.
 
 ## Things to Keep in Mind:
 
-1. **Single Integer Input**:  
-   If there is only one integer to input, you will always use "i" as the integer.
+1. **Single Integer **:  
+   If there is only one integer to take, you will always use "i" as the integer.
 
-2. **Two Integers Input**:  
-   If there are two integers, they will be "i" and "j". The game will specify which integer to use.
+2. **Two Integers **:  
+   If there are two integers to take, they will be "i" and "j". The game will specify which integer to use.
 
 3. **Code Writing**:  
    You don’t need to write all of the code. Just start writing the answers.
